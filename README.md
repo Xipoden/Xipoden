@@ -1,4 +1,4 @@
-# Hi, I am Guilherme Almeida  
+# Hi, I am Guilherme Almeida  🇧🇷
 
 - 👻 Developer since 2019  
 - 👨‍💻 Software Engineering Student at FIAP  

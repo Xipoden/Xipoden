@@ -4,7 +4,7 @@
 - 👨‍💻 Software Engineering Student at FIAP  
 - 🚀 Passionate about backend, APIs, and scalable systems  
 - ✏️ Predestined to win.  
-- 💭 Connect with me on LinkedIn: [Guilherme Almeida](https://www.linkedin.com/guii-almeida/)  
+- 💭 Connect with me on LinkedIn: [Guilherme Almeida](https://www.linkedin.com/in/guii-almeida/)  
 
 ---  
 <p align="center">

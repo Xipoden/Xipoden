@@ -4,11 +4,11 @@
 - 👨‍💻 Software Engineering Student at FIAP  
 - 🚀 Passionate about backend, APIs, and scalable systems  
 - ✏️ Predestined to win.  
-- 💭 Connect with me on LinkedIn: [Guilherme Almeida](https://www.linkedin.com/in/dev-guilherme-almeida/)  
+- 💭 Connect with me on LinkedIn: [Guilherme Almeida](https://www.linkedin.com/guii-almeida/)  
 
 ---  
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-guilherme-almeida/">
+  <a href="https://www.linkedin.com/in/guii-almeida/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/guiialmeida">
